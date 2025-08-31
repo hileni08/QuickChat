@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679863207792",
+    "project_id": "quickchat-j118d",
+    "storage_bucket": "quickchat-j118d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679863207792:android:eb62ce5402f0d29b9ff1b5",
+        "android_client_info": {
+          "package_name": "com.hileni.quickchatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmbL3RMrB7KvqljRmYf0h4Z0xJCFIuCz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
